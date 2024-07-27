@@ -8,6 +8,8 @@
 }
 body{
     overflow: hidden;
+    background-color: #635ead;
+
 }
 #bdMsg{
     display: flex;
